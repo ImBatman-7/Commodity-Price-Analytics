@@ -1,0 +1,1 @@
+This project focuses on forecasting daily modal prices for major commodities in Chhindwara district using historical Agmarknet data. After extensive data cleaning, gap handling, and outlier removal, a linear regression baseline was developed achieving competitive MAPE scores.
